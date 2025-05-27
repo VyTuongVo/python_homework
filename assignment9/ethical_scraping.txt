@@ -1,0 +1,15 @@
+Which sections of the website are restricted for crawling?
+    These below are allow for crawling as it have *, meaning all bots
+    - User-agent: Mediapartners-Google* 
+    - User-agent: *
+    Allow: /w/api.php?action=mobileview&
+    Allow: /w/load.php?
+    Allow: /api/rest_v1/?do
+
+    The line that are usually associate with not to crawl are disallow, specifically --> .private/
+
+Are there specific rules for certain user agents?
+- Yes, different bot have different permission. For example, User-agent: GPTBot, allow openAI to access. However, in general, if User-agent: *, then it allow all bots
+
+Reflect on why websites use robots.txt and write 2-3 sentences explaining its purpose and how it promotes ethical scraping. Put these in ethical_scraping.txt in your python_homework directory.
+- The purpose of robots.txt is to set rules are regulation (limitation). Limiting access have with security for private websites. It also prevent over crowding with too many people accessing the website which could lead to crash. 
