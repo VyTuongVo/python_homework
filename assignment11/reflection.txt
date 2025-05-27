@@ -1,0 +1,8 @@
+Reflect on the differences between static and interactive visualizations.
+- Statics is used to look at the whole picture while visualization allow users to look at individual data and look at trends in different angles.  
+
+Write a short paragraph discussing the advantages of using dashboards for real-time data exploration.
+- The advantages of real-time data is the rate of accuracy. Having real-time data update allow companies to understand trends that the company is currently facing. For example, let's think of stock which uses Real-time data exploration. This allow users to understand current market trend and decided the best course of action. On another hand, if stock websiet are not Real-time data exploration, this would be unappealing to consumer who will surely lose money as they don't have the visulization and ability to track that is necessery. 
+
+Explain how interactive tools like Plotly and Dash can improve data communication in professional settings.
+- Bring back to ideas of trends. The ability to look at data from different point of view or looking at single data and who it stand out allow strong story telling. Its allow helps the story teller look at the big pictures in mutliple point of views which is definitely an asset to the company.
